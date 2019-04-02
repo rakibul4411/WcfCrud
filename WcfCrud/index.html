@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        table, th, td, tr{
+            border: 2px solid black;
+        }
+        hr{
+            height : 3px;
+            background: gray;
+        }
+    </style>
+</head>
+<body ng-app="myApp" ng-controller="mainController">
+    <div>
+        <h2>Person Information</h2><hr />
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Address</th>
+                    <th>Action Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr ng-repeat="person in PersonVM">
+                    <td>{{person.ID}}</td>
+                    <td>{{person.Name}}</td>
+                    <td>{{person.Age}}</td>
+                    <td>{{person.Address}}</td>
+                    <td>
+                        <button ng-click="btnUpdate(person)">Edit</button>
+                        <button ng-click="btnDelete(person)">Delete</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+
+    <div>
+        <hr />
+        <form ng-model="model">
+            Name:<input ng-model="model.Name" /><br />
+            Age:<input ng-model="model.Age" /><br />
+            Address:<input ng-model="model.Address" /><br />
+            <input id="btnSubmit" type="submit" value="{{btnSubmit}}" ng-click="Click(model)"/>
+        </form>
+    </div>
+
+
+    <script src="Scripts/jquery-3.3.1.min.js"></script>
+    <script src="Scripts/angular.js"></script>
+    <script src="Scripts/default.js"></script>
+</body>
+</html>

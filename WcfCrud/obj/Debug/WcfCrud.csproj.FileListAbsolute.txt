@@ -1,0 +1,24 @@
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\bin\WcfCrud.dll.config
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\bin\WcfCrud.dll
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\bin\WcfCrud.pdb
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\obj\Debug\WcfCrud.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\obj\Debug\WcfCrud.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\obj\Debug\WcfCrud.csproj.CopyComplete
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\obj\Debug\WcfCrud.dll
+C:\Users\lenovo\Desktop\WcfCrud\WcfCrud\obj\Debug\WcfCrud.pdb
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\bin\WcfCrud.dll.config
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\bin\WcfCrud.dll
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\bin\WcfCrud.pdb
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\obj\Debug\WcfCrud.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\obj\Debug\WcfCrud.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\obj\Debug\WcfCrud.csproj.CopyComplete
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\obj\Debug\WcfCrud.dll
+C:\Users\lenovo\Desktop\New folder\WcfCrud\WcfCrud\obj\Debug\WcfCrud.pdb
